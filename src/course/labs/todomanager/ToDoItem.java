@@ -112,5 +112,5 @@ public class ToDoItem {
 				+ ITEM_SEP + "Status:" + mStatus + ITEM_SEP + "Date:"
 				+ FORMAT.format(mDate);
 	}
-
+  
 }
